@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Shubham Chemistry Center Website",
+  "main": "base.js",
+  "scripts": {
+    "nodemon": "nodemon /base.js"
+  },
+  "keywords": [
+    "Chemistry",
+    "Coaching",
+    "patna"
+  ],
+  "author": "Renu Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.5.0"
+  }
+}
